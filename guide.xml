@@ -4,6 +4,22 @@
     <display-name lang="pt">TELECINE PREMIUM HD LEG</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="TELECINE ACTION HD LEG">
+    <display-name lang="pt">TELECINE ACTION HD LEG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD LEG">
+    <display-name lang="pt">TELECINE TOUCH HD LEG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN HD LEG">
+    <display-name lang="pt">TELECINE FUN HD LEG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD LEG">
+    <display-name lang="pt">TELECINE PIPOCA HD LEG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20190910013500 -0300" stop="20190910033000 -0300" channel="TELECINE PREMIUM HD LEG">
     <title lang="pt">Terra Selvagem</title>
     <star-rating>
@@ -74,6 +90,711 @@
   </programme>
   <programme start="20190910220000 -0300" stop="20190911001000 -0300" channel="TELECINE PREMIUM HD LEG">
     <title lang="pt">Os Incríveis 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911001000 -0300" stop="20190911015500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Primeiro Ano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911015500 -0300" stop="20190911033500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Pedido de Amizade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911033500 -0300" stop="20190911052500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Sibéria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911052500 -0300" stop="20190911070500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Os Curados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911070500 -0300" stop="20190911084500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Procura-se a Mulher Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911084500 -0300" stop="20190911103000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Agente Mirim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911103000 -0300" stop="20190911121000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Gnomeu e Julieta: O Mistério do Jardim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911121000 -0300" stop="20190911140000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">O Genro da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911140000 -0300" stop="20190911160000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Mamma Mia! Lá Vamos Nós De Novo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911160000 -0300" stop="20190911175500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Christopher Robin</title>
+    <sub-title lang="pt">Um Reencontro Inesquecível</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911175500 -0300" stop="20190911193000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Tudo Acaba Em Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911193000 -0300" stop="20190911220000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Mulher-maravilha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190912000000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Além da Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910000000 -0300" stop="20190910022500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">O Exterminador Do Futuro 2</title>
+    <sub-title lang="pt">O Julgamento Final</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910022500 -0300" stop="20190910041500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910041500 -0300" stop="20190910054000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Esquadrão do Biquíni</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910054000 -0300" stop="20190910074000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Protegendo O Inimigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910074000 -0300" stop="20190910092000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">88</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910092000 -0300" stop="20190910110000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Bala Perdida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910110000 -0300" stop="20190910124000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">A Cilada (2015)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910124000 -0300" stop="20190910142500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Fuga Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910142500 -0300" stop="20190910162000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Velozes E Furiosos 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910162000 -0300" stop="20190910183500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Miami Vice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910183500 -0300" stop="20190910202000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Crimes Na Madrugada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910202000 -0300" stop="20190910220000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">O Código</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190910234500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Carga Explosiva</title>
+    <sub-title lang="pt">O Legado</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910234500 -0300" stop="20190911011500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Pânico Na Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911011500 -0300" stop="20190911025000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Dia De Trabalho Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911025000 -0300" stop="20190911045000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Jovem E Submissa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911045000 -0300" stop="20190911065000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Ascensão E Queda De Um Império</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911065000 -0300" stop="20190911082500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">O Peso da Culpa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911082500 -0300" stop="20190911102000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Código de Honra (2016)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911102000 -0300" stop="20190911121000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911121000 -0300" stop="20190911140500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">A Supremacia Bourne</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911140500 -0300" stop="20190911163000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">O Exterminador Do Futuro 2</title>
+    <sub-title lang="pt">O Julgamento Final</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911163000 -0300" stop="20190911183500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Tropa De Elite 2</title>
+    <sub-title lang="pt">O Inimigo Agora É Outro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911183500 -0300" stop="20190911202000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Lara Croft: Tomb Raider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911202000 -0300" stop="20190911220000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Bad Ass</title>
+    <sub-title lang="pt">Acima Da Lei</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190911235000 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">John Wick</title>
+    <sub-title lang="pt">De Volta ao Jogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911235000 -0300" stop="20190912020500 -0300" channel="TELECINE ACTION HD LEG">
+    <title lang="pt">Até O Limite Da Honra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910001500 -0300" stop="20190910021500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Aniversário Hugh Grant</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910021500 -0300" stop="20190910040500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Benny &amp; Joon: Corações em Conflito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910040500 -0300" stop="20190910055500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Jesus Cristo Superstar: Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910055500 -0300" stop="20190910074500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">O Último Desejo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910074500 -0300" stop="20190910094500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">A Tempestade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910094500 -0300" stop="20190910113500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Hampstead: Nunca É Tarde Para Amar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910113500 -0300" stop="20190910135000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Íntimo &amp; Pessoal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910135000 -0300" stop="20190910155000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Intocáveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910155000 -0300" stop="20190910174000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Um Bom Partido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910174000 -0300" stop="20190910195500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Rainha de Katwe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910195500 -0300" stop="20190910220000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">O Filme Da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190911000000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">O Jovem Messias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911000000 -0300" stop="20190911015000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Mentes Perigosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911015000 -0300" stop="20190911040000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Dívida de Honra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911040000 -0300" stop="20190911055000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Menina Dos Olhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911055000 -0300" stop="20190911074500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">A Vida Em Espera</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911074500 -0300" stop="20190911102000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Lincoln</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911102000 -0300" stop="20190911122500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Quatro Casamentos E Um Funeral</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911122500 -0300" stop="20190911140500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Meu Admirador Secreto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911140500 -0300" stop="20190911162000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Um Anjo Em Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911162000 -0300" stop="20190911181500 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Adeus Christopher Robin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911181500 -0300" stop="20190911200000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Benzinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911200000 -0300" stop="20190911220000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">A Duquesa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190912002000 -0300" channel="TELECINE TOUCH HD LEG">
+    <title lang="pt">Armas Na Mesa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910000000 -0300" stop="20190910020500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910020500 -0300" stop="20190910034500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">As Aventuras De Dancer E Princesa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910034500 -0300" stop="20190910052500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Um Pirado No Espaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910052500 -0300" stop="20190910072500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">No Ritmo Indiano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910072500 -0300" stop="20190910092000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Três Solteirões e um Bebê</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910092000 -0300" stop="20190910113000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Ligado Em Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910113000 -0300" stop="20190910130500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Beethoven 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910130500 -0300" stop="20190910144500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Meu Papai é Noel 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910144500 -0300" stop="20190910162500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Dormindo Fora de Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910162500 -0300" stop="20190910181500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Um Tio Quase Perfeito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910181500 -0300" stop="20190910195500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Madagascar 3: Os Procurados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910195500 -0300" stop="20190910220000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Eu Os Declaro Marido E... Larry!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190910235000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Programa Duplo a Ressaca: A Ressaca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910235000 -0300" stop="20190911014000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Programa Duplo a Ressaca: A Ressaca 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911014000 -0300" stop="20190911032000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Carros Usados, Vendedores Pirados!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911032000 -0300" stop="20190911051500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Ted</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911051500 -0300" stop="20190911071500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Alice Através do Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911071500 -0300" stop="20190911090000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Gaby Estrella: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911090000 -0300" stop="20190911104500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Meu Papai É Noel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911104500 -0300" stop="20190911123000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">O Dragão Dourado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911123000 -0300" stop="20190911141500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Um Conto de Sereia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911141500 -0300" stop="20190911155000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Ace Ventura</title>
+    <sub-title lang="pt">Um Detetive Diferente</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911155000 -0300" stop="20190911180000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">A Espiã Que Sabia De Menos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911180000 -0300" stop="20190911200000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Uma Ladra Sem Limites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911200000 -0300" stop="20190911220000 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Como Se Tornar o Pior Aluno da Escola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190911234500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">O Professor Aloprado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911234500 -0300" stop="20190912012500 -0300" channel="TELECINE FUN HD LEG">
+    <title lang="pt">Surpresa Em Dobro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910001500 -0300" stop="20190910020000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Amizade Desfeita 2: Dark Web</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910020000 -0300" stop="20190910041500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Tubarão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910041500 -0300" stop="20190910055000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Stephanie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910055000 -0300" stop="20190910071500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Batman Vs. Duas-Caras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910071500 -0300" stop="20190910092500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Duelo de Dinastias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910092500 -0300" stop="20190910111500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Arranha-céu: Coragem Sem Limite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910111500 -0300" stop="20190910134000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Sete Homens E Um Destino (2016)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910134000 -0300" stop="20190910155500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Ben-Hur (2016)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910155500 -0300" stop="20190910183000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910183000 -0300" stop="20190910202000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">O Nome Da Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910202000 -0300" stop="20190910220000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">A Torre Negra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190910234000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Parque do Inferno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910234000 -0300" stop="20190911012500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">A Primeira Noite De Crime</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911012500 -0300" stop="20190911033500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Piratas da Somália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911033500 -0300" stop="20190911052000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Os Domésticos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911052000 -0300" stop="20190911072500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">O Último Ato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911072500 -0300" stop="20190911092000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Amor em Little Italy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911092000 -0300" stop="20190911105500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Sai de Baixo</title>
+    <sub-title lang="pt">o Filme</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911105500 -0300" stop="20190911125500 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">High School Musical 3: Ano da Formatura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911125500 -0300" stop="20190911143000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Duas De Mim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911143000 -0300" stop="20190911162000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">O Rei Do Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911162000 -0300" stop="20190911181000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Uma Razão Para Vencer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911181000 -0300" stop="20190911201000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Como Eu Era Antes De Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911201000 -0300" stop="20190911220000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">Os Parças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190912001000 -0300" channel="TELECINE PIPOCA HD LEG">
+    <title lang="pt">De Repente Uma Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
