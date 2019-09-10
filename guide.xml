@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE PREMIUM HD LEG">
+    <display-name lang="pt">TELECINE PREMIUM HD LEG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190910013500 -0300" stop="20190910033000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Terra Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910033000 -0300" stop="20190910051000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Pérola No Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910051000 -0300" stop="20190910064500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Mãe E Pai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910064500 -0300" stop="20190910085000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Maria Madalena</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910085000 -0300" stop="20190910103500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Antes Que Eu Me Esqueça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910103500 -0300" stop="20190910123000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">O Legado Kennedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910123000 -0300" stop="20190910143000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">O Tradutor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910143000 -0300" stop="20190910163500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">The Post</title>
+    <sub-title lang="pt">a Guerra Secreta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910163500 -0300" stop="20190910181500 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Anjos da Noite: Guerras de Sangue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910181500 -0300" stop="20190910202000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Chacrinha</title>
+    <sub-title lang="pt">O Velho Guerreiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910202000 -0300" stop="20190910220000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Johnny English 3.0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190911001000 -0300" channel="TELECINE PREMIUM HD LEG">
+    <title lang="pt">Os Incríveis 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
